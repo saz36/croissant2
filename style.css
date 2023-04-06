@@ -1,0 +1,15 @@
+:root {
+  --main-colour: #a8a8ff;
+}
+
+body {
+  background-color: var(--main-colour);
+}
+
+.background {
+  background-color: white;
+}
+img {
+  height: 300px;
+  width: 230px;
+}
